@@ -17,7 +17,27 @@ Python, Pandas, NumPy, Matplotlib, Seaborn (Google Colab)
 5. Insights and recommendations
 
 ## Key Findings
-(Paste the output of the Key Insights cell here, then add your recommendations.)
 
-## How to run
-Open `sales_eda.ipynb` in Google Colab and run all cells (Runtime > Run all).
+- Analyzed sales data to understand overall business performance and revenue trends.
+- Identified top-performing products and categories based on sales performance.
+- Examined regional sales distribution to understand which regions contribute most to overall revenue.
+- Analyzed monthly sales trends to identify variations in sales over time.
+- Evaluated product performance to identify high-demand and low-performing products.
+- Used data visualizations to identify patterns, trends, and relationships within the dataset.
+- Derived meaningful business insights to support data-driven decision-making.
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open `sales_eda.ipynb` using Google Colab or Jupyter Notebook.
+3. Upload the required sales dataset.
+4. Install the necessary Python libraries if they are not already available.
+5. Select **Runtime → Run all** in Google Colab.
+6. Execute all cells to view the data analysis, visualizations, and key insights.
+
+### Requirements
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
